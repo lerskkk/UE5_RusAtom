@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\users\\sofya\\documents\\unreal projects\\rusatom\\source\\iodebug\\private\\iodebug.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\users\\sofya\\documents\\unreal projects\\rusatom\\intermediate\\build\\win64\\x64\\rusatomeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\users\\sofya\\documents\\unreal projects\\rusatom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\iodebug\\definitions.iodebug.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

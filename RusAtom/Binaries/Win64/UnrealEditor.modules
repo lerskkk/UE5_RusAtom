@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"IODebug": "UnrealEditor-IODebug.dll",
+		"RusAtom": "UnrealEditor-RusAtom.dll"
+	}
+}

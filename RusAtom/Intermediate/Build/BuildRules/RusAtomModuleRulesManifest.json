@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\users\\Sofya\\Documents\\Unreal Projects\\RusAtom\\Source\\IODebug\\IODebug.Build.cs",
+		"D:\\users\\Sofya\\Documents\\Unreal Projects\\RusAtom\\Source\\RusAtom\\RusAtom.Build.cs",
+		"D:\\users\\Sofya\\Documents\\Unreal Projects\\RusAtom\\Source\\RusAtom.Target.cs",
+		"D:\\users\\Sofya\\Documents\\Unreal Projects\\RusAtom\\Source\\RusAtomEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

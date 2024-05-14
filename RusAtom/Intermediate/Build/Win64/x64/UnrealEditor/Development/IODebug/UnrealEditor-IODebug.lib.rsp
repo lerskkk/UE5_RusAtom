@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-IODebug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\RusAtomEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IOBehaviorComponent.gen.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IODebug.init.gen.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IODebugSubsystem.gen.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\data_tools.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\FileProtocol.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\file_tools.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IOBehaviorComponent.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IODebug.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\IODebugSubsystem.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\Default.rc2.res"
+/OUT:"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\IODebug\UnrealEditor-IODebug.lib"

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RusAtom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\RusAtomEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\RusAtom\RusAtom.cpp.obj"
+"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\RusAtom\Default.rc2.res"
+/OUT:"D:\users\Sofya\Documents\Unreal Projects\RusAtom\Intermediate\Build\Win64\x64\UnrealEditor\Development\RusAtom\UnrealEditor-RusAtom.lib"
